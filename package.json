@@ -1,0 +1,11 @@
+{
+  "name": "sara-eidelmann",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "iatenothingbutriceforthreedays <darwinvickers@gmail.COM>",
+  "license": "MIT",
+  "dependencies": {
+    "node-twitterbot": "^0.2.2",
+    "twit": "^2.2.11"
+  }
+}
