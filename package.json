@@ -5,7 +5,15 @@
   "author": "iatenothingbutriceforthreedays <darwinvickers@gmail.COM>",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
+    "canvas": "^2.3.1",
+    "dom-parser": "^0.1.5",
+    "fast-average-color": "^4.3.0",
+    "google-images": "^2.1.0",
+    "ncc": "^0.3.6",
     "node-twitterbot": "^0.2.2",
+    "pick-random": "^2.0.0",
+    "random-words": "^1.1.0",
     "twit": "^2.2.11"
   }
 }
